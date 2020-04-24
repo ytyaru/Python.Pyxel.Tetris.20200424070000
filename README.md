@@ -6,9 +6,9 @@ Tetris (made by Pyxel)
 
 # DEMO
 
-![demo_all](doc/demo_all.gif)
 ![demo_play](doc/demo_play.gif)
 ![demo_config](doc/demo_config.gif)
+![demo_all](doc/demo_all.gif)
 
 # Requirement
 
@@ -57,11 +57,11 @@ Meaning|key
 Start playing|`SPACE`
 Key config|`Enter`
 
-![start](demo/start.png)
+![start](doc/start.png)
 
 ## KeyConfig
 
-![keyconfig](demo/keyconfig.png)
+![keyconfig](doc/keyconfig.png)
 
 Meaning|key
 ----|----
@@ -102,20 +102,20 @@ Mute switch|`F3`
 * Operate using the key set / selected on the key configuration screen
 * You can call the key config screen by suspending with `Shift` +` C`
 
-![play](demo/play.png)
-![mute](demo/mute.png)
+![play](doc/play.png)
+![mute](doc/mute.png)
 
 ## GameOver
 
 * The number of deleted lines is displayed
 * You can retry by pressing the `R` key
 
-![gameover](demo/gameover.png)
+![gameover](doc/gameover.png)
 
 # Note
 
 * Bug. Fall Prediction Tetrimino sometimes slips below the bottom edge
-* There is a sound. When I put Tetrimino. There is no mute setting
+* There is a sound. When I put Tetrimino.
 
 # Author
 

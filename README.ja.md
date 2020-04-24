@@ -6,9 +6,9 @@
 
 # デモ
 
-![demo_all](doc/demo_all.gif)
 ![demo_play](doc/demo_play.gif)
 ![demo_config](doc/demo_config.gif)
+![demo_all](doc/demo_all.gif)
 
 # 開発環境
 
@@ -57,11 +57,11 @@ cd Python.Pyxel.Tetris.20200424000000/src
 プレイ開始|`SPACE`
 キーコンフィグ|`Enter`
 
-![start](demo/start.png)
+![start](doc/start.png)
 
 ## キーコンフィグ画面
 
-![keyconfig](demo/keyconfig.png)
+![keyconfig](doc/keyconfig.png)
 
 意味|キー
 ----|----
@@ -102,20 +102,20 @@ Fall|`Space`|`Space`|`Space`
 
 * キーコンフィグ画面で設定・選択したキーを使って操作する
 
-![play](demo/play.png)
-![mute](demo/mute.png)
+![play](doc/play.png)
+![mute](doc/mute.png)
 
 ## ゲームオーバー画面
 
 * 消した行の数が表示される
 * `R`キー押下するとリトライできる
 
-![gameover](demo/gameover.png)
+![gameover](doc/gameover.png)
 
 # 注意
 
 * バグ。落下予測テトリミノが下端より下へめり込んでしまうときがある
-* 音が出る。テトリミノを置いたときに。消音設定はない
+* 音が出る。テトリミノを置いたときに。
 
 # 著者
 
